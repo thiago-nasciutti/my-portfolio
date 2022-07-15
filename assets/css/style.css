@@ -3,7 +3,7 @@
 ul{
     list-style-type: none;
 }
-a{
+.nav-link{
     color:rgb(219, 59, 59);
     text-decoration: none;
 }
@@ -46,5 +46,14 @@ p{
 h2{
     font-size: xx-large;
     text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+/*links*/
+.image-link:link{
+    opacity: 0.2;
+}
+
+.image-link:hover{
+    opacity: 1;
+}

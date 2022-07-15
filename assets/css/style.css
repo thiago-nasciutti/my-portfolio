@@ -11,8 +11,8 @@ header h1 {
 }
 header ul li{
     display: inline;
-    padding: 50px; 
+    padding: 0 50px; 
     font-size: x-large;
-    float: right;
+
   
 }
